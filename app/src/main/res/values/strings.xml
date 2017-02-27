@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">我的仓库</string>
+    <string name="btn_enter">录入</string>
+    <string name="btn_query">查询</string>
+    <string name="tv_name">货品名称:</string>
+    <string name="edt_name_hint">请输入货品名称</string>
+    <string name="tv_modelnumber">货品型号:</string>
+    <string name="edt_modelnumber_hint">请输入货品型号</string>
+    <string name="tv_number">货品数量:</string>
+    <string name="edt_number">请输入货品数量</string>
+    <string name="tv_location">存储位置:</string>
+    <string name="edt_location">请输入存储位置</string>
+    <string name="tv_querynumber">查询货物编号:</string>
+    <string name="edt_querynumber">请输入要查询的货物编号</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_save">保存</string>
+</resources>
